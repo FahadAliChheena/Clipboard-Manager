@@ -1,0 +1,61 @@
+LICENSE AGREEMENT
+
+
+Clipboard Manager is distributed as try-before-you-buy. This means:
+
+1. All copyrights to Clipboard Manager are exclusively owned by Fahad Ali Chheena, Ltd.
+
+2. Anyone may use this software during a test period of 21 days. 
+Following this test period of 21 days or less, if you wish to continue
+to use Clipboard Manager, you MUST register.
+
+3. Once registered, the user is granted a non-exclusive license to use 
+Clipboard Manager. One license gives the right to use Clipboard Manager 
+for ONE way of these two ways (not both ways!):
+ a) use Clipboard Manager personally on one or more computers;
+ b) use Clipboard Manager if it is installed on a single workstation used
+ non-simultaneously by multiple people.
+ 
+The registered Clipboard Manager software may not be rented or leased, 
+but may be permanently transferred, if the person receiving it agrees 
+to terms of this license. If the software is an update, the transfer 
+must include the update and all previous versions. 
+
+4. The Clipboard Manager unregistered trial version, may be freely 
+distributed, with exceptions noted below, provided the distribution 
+package is not modified. No person or company may charge a fee for 
+the distribution of Clipboard Manager without written permission from the 
+copyright holder. The Clipboard Manager unregistered trial version may not 
+be bundled or distributed with any other package without written 
+permission of the copyright holder.
+
+5. Registration instructions can be found here:
+http://www.Clipboard Manager/order/
+
+6. Clipboard Manager IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND
+IS EXPRESSED OR IMPLIED. YOU USE AT YOUR OWN RISK. Fahad Ali Chheena, LTD.
+WILL NOT BE LIABLE FOR DATA LOSS,
+DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING
+OR MISUSING THIS SOFTWARE.
+
+7. You may not use, copy, emulate, clone, rent, lease, sell, modify, 
+decompile, disassemble, otherwise reverse engineer, or transfer the 
+licensed program, or any subset of the licensed program, except as 
+provided for in this agreement. Any such unauthorized use shall result
+in immediate and automatic termination of this license and may result
+in criminal and/or civil prosecution.
+
+All rights not expressly granted here are reserved by Fahad Ali Chheena, Ltd.
+
+8. Installing and using Clipboard Manager signifies acceptance of these terms 
+and conditions of the license.
+
+9. If you do not agree with the terms of this license you must remove
+Clipboard Manager files from your storage devices and cease to use the product.
+
+Contact at:
+call: +923032602607
+mail: fahadcheena57@gmail.com
+
+
+Thank you for using Clipboard Manager!
